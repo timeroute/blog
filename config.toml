@@ -1,0 +1,5 @@
+baseURL = 'http://zhujia.info/'
+languageCode = 'zh-cn'
+title = '时空路由器'
+theme = 'stack'
+DefaultContentLanguage = 'zh-cn'
